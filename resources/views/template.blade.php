@@ -17,9 +17,9 @@
 
 
 	<!-- CSS Files -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/material-kit.css" rel="stylesheet"/>
-	<link href="css/main.css" rel="stylesheet" />
+    <link href="css/all.css" rel="stylesheet" />
+    <!--<link href="{{{asset('css/material-kit.css')}}}" rel="stylesheet"/>
+	<link href="{{{asset('css/main.css')}}}" rel="stylesheet" />-->
 
 </head>
     @yield('content')
