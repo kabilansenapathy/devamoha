@@ -5,7 +5,7 @@
 
 @section('content')
 <body class="profile-page">
-	<nav class="navbar navbar-transparent navbar-absolute">
+	<nav id="navbar" class="navbar navbar-transparent navbar-absolute">
     	<div class="container">
         	<!-- Brand and toggle get grouped for better mobile display -->
         	<div class="navbar-header">

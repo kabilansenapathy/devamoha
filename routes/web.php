@@ -21,3 +21,11 @@ Route::get('/about', function () {
 Route::get('/team', function () {
     return view('team');
 });
+Route::get('/donate', function () {
+    return view('donate');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+

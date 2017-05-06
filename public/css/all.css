@@ -3760,11 +3760,17 @@ h2.title {
 
 /*# sourceMappingURL=material-kit.css.map */
 
+.landing-page .navbar-transparent, .profile-page .navbar-transparent, .signup-page .navbar-transparent, .index-page .navbar-transparent{
+    padding-top:10px;
+}
 .navbar-logo{
     width: 50px;
     height: 50px;
     position: relative;
     top: -13px;
+}
+.navbar-custom{
+    background-color: #333333 !important;
 }
 a.custom{
     color:#177abe !important;
@@ -4207,3 +4213,10 @@ a.custom{
   .mission-text{
       padding: 5% 20% 5% 20%;
   }
+/*contact page*/
+.map{
+    height:55vh;
+    width:100%;
+    display:block;
+    position:relative
+}

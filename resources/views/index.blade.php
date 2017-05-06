@@ -5,7 +5,7 @@
 @section('content')
 
 <body class="landing-page">
-    <nav class="navbar navbar-transparent navbar-absolute">
+    <nav id="navbar" class="navbar navbar-transparent navbar-absolute">
     	<div class="container">
         	<!-- Brand and toggle get grouped for better mobile display -->
         	<div class="navbar-header">
@@ -228,20 +228,23 @@
 </body>
 
 	<!--   Core JS Files   -->
-	<script src="js/jquery.min.js" type="text/javascript"></script>
-	<script src="js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="js/material.min.js"></script>
+	<script src="js/all.js" type="text/javascript"></script>
 
-	<!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
-	<script src="js/nouislider.min.js" type="text/javascript"></script>
-
-	<!--  Plugin for the Datepicker, full documentation here: http://www.eyecon.ro/bootstrap-datepicker/ -->
-	<script src="js/bootstrap-datepicker.js" type="text/javascript"></script>
-
-	<!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
-	<script src="js/material-kit.js" type="text/javascript"></script>
-
-	<script type="text/javascript">
+<script>
+	$(window).scroll(function() {
+		jQuery("#navbar").removeClass("navbar-absolute");
+            $("#navbar").addClass("navbar-custom");
+            $("#navbar").addClass("navbar-fixed-top");
+        if ($("#navbar").offset().top > 100) {
+            $("#navbar").removeClass("navbar-absolute");
+            $("#navbar").addClass("navbar-custom");
+            $("#navbar").addClass("navbar-fixed-top");
+        } else {
+             $("#navbar").removeClass("navbar-custom");
+        }
+    });
+</script>
+	<!--<script type="text/javascript">
 
 		$().ready(function(){
 			// the body of this function is in assets/material-kit.js
@@ -255,5 +258,5 @@
 			}
 
 		});
-	</script>
+	</script>-->
 @endsection
