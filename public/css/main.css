@@ -420,3 +420,18 @@ a.custom{
       color: #fff !important;
       height: 100%;
   }
+  
+  /*about page*/
+  .about-background{
+      background-image: url('../img/about-header.jpg'); 
+      /*background-position-y:-250rem;*/
+      background-repeat: no-repeat;
+      /*background-size: contain;*/
+  }
+  .about-us-content{
+    text-align: left;
+    color: #999999;
+  }
+  .mission-text{
+      padding: 5% 20% 5% 20%;
+  }
