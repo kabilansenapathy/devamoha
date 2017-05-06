@@ -95,7 +95,7 @@
 			                        <h4 class="title">Adhithya Muthusamy<br />
 										<small class="text-muted">Director</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
 			                    </div>
@@ -203,37 +203,6 @@
 		</div>
 
     </div>
-    <footer class="footer">
-	        <div class="container">
-	            <nav class="pull-left">
-	                <ul>
-	                    <li>
-	                        <a href="#">
-	                            Amoha
-	                        </a>
-	                    </li>
-						<li>
-	                        <a href="#">
-	                           About Us
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="#">
-	                           Blog
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="#">
-	                            Contact
-	                        </a>
-	                    </li>
-	                </ul>
-	            </nav>
-	            <div class="copyright pull-right">
-	                &copy; 2017 Amoha
-	            </div>
-	        </div>
-	    </footer>
 
 
 </body>

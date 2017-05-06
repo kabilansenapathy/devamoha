@@ -3772,7 +3772,13 @@ h2.title {
 .navbar-custom{
     background-color: #333333 !important;
 }
+.navbar-contact{
+    background-color: #333333 !important;
+}
 a.custom{
+    color:#177abe !important;
+}
+.icon-custom{
     color:#177abe !important;
 }
 .tim-row{
@@ -3866,7 +3872,7 @@ a.custom{
     background-color: #177abe;
 }
 .icon-custom{
-    color: #01a8a1 !important;
+    color: #01a8a1;
 }
 .space-100{
     height: 100px;

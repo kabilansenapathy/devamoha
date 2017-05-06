@@ -130,37 +130,6 @@
 		</div>
 
     </div>
-    <footer class="footer">
-	        <div class="container">
-	            <nav class="pull-left">
-	                <ul>
-	                    <li>
-	                        <a href="#">
-	                            Amoha
-	                        </a>
-	                    </li>
-						<li>
-	                        <a href="#">
-	                           About Us
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="#">
-	                           Blog
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="#">
-	                            Contact
-	                        </a>
-	                    </li>
-	                </ul>
-	            </nav>
-	            <div class="copyright pull-right">
-	                &copy; 2017 Amoha
-	            </div>
-	        </div>
-	    </footer>
 
 
 </body>

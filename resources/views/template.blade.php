@@ -24,6 +24,38 @@
 
 </head>
     @yield('content')
+	    <footer class="footer">
+	        <div class="container">
+	            <nav class="pull-left">
+	                <ul>
+	                    <li>
+	                        <a href="/">
+	                            Amoha
+	                        </a>
+	                    </li>
+						<li>
+	                        <a href="/about">
+	                           About Us
+	                        </a>
+	                    </li>
+	                    <li>
+	                        <a href="#">
+	                           Blog
+	                        </a>
+	                    </li>
+	                    <li>
+	                        <a href="contact">
+	                            Contact
+	                        </a>
+	                    </li>
+	                </ul>
+	            </nav>
+	            <div class="copyright pull-right">
+	                &copy; 2017 Amoha
+	            </div>
+	        </div>
+	    </footer>
+
 
     <!--   Core JS Files   -->
 	<script src="{{{mix('js/all.js')}}}" type="text/javascript"></script>
