@@ -18,25 +18,13 @@
 
 	<!-- CSS Files -->
     <link href="css/all.css" rel="stylesheet" />
-    <!--<link href="{{{asset('css/material-kit.css')}}}" rel="stylesheet"/>
-	<link href="{{{asset('css/main.css')}}}" rel="stylesheet" />-->
 
 </head>
     @yield('content')
 
     <!--   Core JS Files   -->
-	<script src="js/jquery.min.js" type="text/javascript"></script>
-	<script src="js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="js/material.min.js"></script>
+	<script src="js/all.js" type="text/javascript"></script>
 
-	<!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
-	<script src="js/nouislider.min.js" type="text/javascript"></script>
-
-	<!--  Plugin for the Datepicker, full documentation here: http://www.eyecon.ro/bootstrap-datepicker/ -->
-	<script src="js/bootstrap-datepicker.js" type="text/javascript"></script>
-
-	<!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
-	<script src="js/material-kit.js" type="text/javascript"></script>
 
 	<script type="text/javascript">
 
