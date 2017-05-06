@@ -15,7 +15,8 @@
 		            <span class="icon-bar"></span>
 		            <span class="icon-bar"></span>
         		</button>
-        		<a class="navbar-brand" href="/index.php">Amoha</a>
+        		<a class="navbar-brand" href="/index.php"><img class="navbar-logo" src="{{{ asset('img/logo.png') }}}"></a>
+				<a class="navbar-brand" href="/index.php">Amoha</a>
         	</div>
 
         	<div class="collapse navbar-collapse" id="navigation-example">
@@ -26,17 +27,17 @@
     					</a>
     				</li>
 					<li>
-    					<a href="#" target="_blank">
+    					<a href="team" >
     						Team
     					</a>
     				</li>
     				<li>
-						<a href="#" target="_blank">
+						<a href="contact">
 							Contact
 						</a>
     				</li>
 					<li>
-    					<a href="#" target="_blank">
+    					<a href="donate">
     						Contribute
     					</a>
     				</li>
