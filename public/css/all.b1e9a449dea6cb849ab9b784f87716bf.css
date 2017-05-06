@@ -3629,7 +3629,7 @@ h2.title {
 }
 
 .navbar-absolute {
-  position: absolute;
+  position: fixed;
   width: 100%;
   padding-top: 10px;
   z-index: 1031;
@@ -3763,6 +3763,12 @@ h2.title {
 .landing-page .navbar-transparent, .profile-page .navbar-transparent, .signup-page .navbar-transparent, .index-page .navbar-transparent{
     padding-top:10px;
 }
+@media(min-width:768px){
+.no-pad{
+    padding: 0px !important;
+}
+}
+
 .navbar-logo{
     width: 50px;
     height: 50px;
@@ -3771,6 +3777,7 @@ h2.title {
 }
 .navbar-custom{
     background-color: #333333 !important;
+    width: 100% !important;
 }
 .navbar-contact{
     background-color: #333333 !important;

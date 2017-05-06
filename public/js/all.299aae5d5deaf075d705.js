@@ -26415,23 +26415,24 @@ if ("undefined" == typeof jQuery) throw new Error("Bootstrap's JavaScript requir
 /* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function($, jQuery) {
+/* WEBPACK VAR INJECTION */(function(jQuery) {
 
-$(window).scroll(function () {
+jQuery(window).scroll(function () {
     jQuery("#navbar").removeClass("navbar-absolute");
     jQuery("#navbar").addClass("navbar-custom");
-    $("#navbar").addClass("navbar-fixed-top");
+    jQuery("#navbar").addClass("navbar-fixed-top");
+
     if (jQuery("#navbar").offset().top > 100) {
-        $("#navbar").removeClass("navbar-absolute");
-        $("#navbar").addClass("navbar-custom");
-        $("#navbar").addClass("navbar-fixed-top");
+        jQuery("#navbar").removeClass("navbar-absolute");
+        jQuery("#navbar").addClass("navbar-custom");
+        jQuery("#navbar").addClass("navbar-fixed-top");
     } else {
-        $("#navbar").removeClass("navbar-custom");
-        $("#navbar").addClass("navbar-absolute");
-        $("#navbar").removeClass("navbar-fixed-top");
+        jQuery("#navbar").removeClass("navbar-custom");
+        jQuery("#navbar").addClass("navbar-absolute");
+        jQuery("#navbar").removeClass("navbar-fixed-top");
     }
 });
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0), __webpack_require__(0)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
 /***/ }),
 /* 6 */

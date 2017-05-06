@@ -19,7 +19,7 @@
 				<a class="navbar-brand" href="/index.php">Amoha</a>
         	</div>
 
-        	<div class="collapse navbar-collapse" id="navigation-example">
+        	<div class="collapse navbar-collapse no-pad" id="navigation-example">
         		<ul class="nav navbar-nav navbar-right">
     				<li>
     					<a href="about">
@@ -201,18 +201,7 @@
 	<script src="js/all.js" type="text/javascript"></script>
 
 <script>
-	$(window).scroll(function() {
-		jQuery("#navbar").removeClass("navbar-absolute");
-            $("#navbar").addClass("navbar-custom");
-            $("#navbar").addClass("navbar-fixed-top");
-        if ($("#navbar").offset().top > 100) {
-            $("#navbar").removeClass("navbar-absolute");
-            $("#navbar").addClass("navbar-custom");
-            $("#navbar").addClass("navbar-fixed-top");
-        } else {
-             $("#navbar").removeClass("navbar-custom");
-        }
-    });
+	//jQuery("#navbar").removeClass("navbar-absolute");
 </script>
 	<!--<script type="text/javascript">
 

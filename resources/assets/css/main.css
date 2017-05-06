@@ -1,6 +1,12 @@
 .landing-page .navbar-transparent, .profile-page .navbar-transparent, .signup-page .navbar-transparent, .index-page .navbar-transparent{
     padding-top:10px;
 }
+@media(min-width:768px){
+.no-pad{
+    padding: 0px !important;
+}
+}
+
 .navbar-logo{
     width: 50px;
     height: 50px;
@@ -9,6 +15,7 @@
 }
 .navbar-custom{
     background-color: #333333 !important;
+    width: 100% !important;
 }
 .navbar-contact{
     background-color: #333333 !important;
