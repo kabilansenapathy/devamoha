@@ -3896,6 +3896,7 @@ a.custom{
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center center;
+    box-shadow: inset 0 10px 8px rgba(0,0,0,.4);
 
 }
 .parallax-p{

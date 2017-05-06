@@ -26,11 +26,11 @@ mix.js([
     'resources/assets/js/material-kit.js',
 
 
-],'public/js/all.js');
+],'public/js/all.js').version();;
 
 mix.styles([
      'resources/assets/css/app.css',
      'resources/assets/css/bootstrap.min.css',
      'resources/assets/css/material-kit.css',
      'resources/assets/css/main.css'
- ], 'public/css/all.css');
+ ], 'public/css/all.css').version();;

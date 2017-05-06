@@ -20,13 +20,13 @@
         </script>
 
 	<!-- CSS Files -->
-    <link href="css/all.css" rel="stylesheet" />
+    <link href="{{{ mix('css/all.css') }}}" rel="stylesheet" />
 
 </head>
     @yield('content')
 
     <!--   Core JS Files   -->
-	<script src="js/all.js" type="text/javascript"></script>
+	<script src="{{{mix('js/all.js')}}}" type="text/javascript"></script>
 
 
 	<script type="text/javascript">
