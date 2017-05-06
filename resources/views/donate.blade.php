@@ -19,7 +19,7 @@
 				<a class="navbar-brand" href="/index.php">Amoha</a>
         	</div>
 
-        	<div class="collapse navbar-collapse" id="navigation-example">
+        	<div class="collapse navbar-collapse no-pad" id="navigation-example">
         		<ul class="nav navbar-nav navbar-right">
     				<li>
     					<a href="about">
