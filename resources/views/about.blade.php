@@ -137,8 +137,8 @@
 			                <div class="col-md-4">
 			                    <div class="team-player">
 			                        <img src="../assets/img/kendall.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Kendall Jenner<br />
-										<small class="text-muted">Model</small>
+			                        <h4 class="title">Person 1<br />
+										<small class="text-muted">Director</small>
 									</h4>
 			                        <p>You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
@@ -149,8 +149,8 @@
 							<div class="col-md-4">
 			                    <div class="team-player">
 			                        <img src="../assets/img/avatar.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Gigi Hadid <br />
-										<small class="text-muted">Model</small>
+			                        <h4 class="title">Person 2 <br />
+										<small class="text-muted">Director</small>
 									</h4>
 			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -161,8 +161,8 @@
 			                <div class="col-md-4">
 			                    <div class="team-player">
 			                        <img src="../assets/img/christian.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Christian Louboutin<br />
-										<small class="text-muted">Designer</small>
+			                        <h4 class="title">Person 3<br />
+										<small class="text-muted">Director</small>
 									</h4>
 			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -172,8 +172,8 @@
 			                <div class="col-md-4">
 			                    <div class="team-player">
 			                        <img src="../assets/img/kendall.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Kendall Jenner<br />
-										<small class="text-muted">Model</small>
+			                        <h4 class="title">Person 4<br />
+										<small class="text-muted">Director</small>
 									</h4>
 			                        <p>You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
