@@ -82,6 +82,7 @@
 		    	<div class="container section text-center section-landing">
 	                <div class="row">
 	                    <div class="col-md-8 col-md-offset-2">
+							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">WHO & WHY</h2>
 	                        <h5 class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h5>
 	                    </div>
@@ -132,6 +133,7 @@
 				<div class="container section text-center section-landing">
 	                <div class="row">
 	                    <div class="col-md-8 col-md-offset-2">
+							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">Our Mission</h2>
 	                        <h5 class="description">Amoha is strongly committed to ensuring all students graduate from middle & high school and be college ready and fully prepared academically for any and all opportunities they choose to pursue.</h5>
 	                    </div>
@@ -187,8 +189,11 @@
 	        	<div class="section landing-section">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
-	                        <h2 class="text-center title">Contribute</h2>
-							<h4 class="text-center description">Convince me more with a sentence</h4>
+							<div class="text-center">
+								<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
+	                        	<h2 class="title">Contribute</h2>
+								<h4 class="description">Convince me more with a sentence</h4>
+							</div>
 	                        <form class="contact-form">
 	                            <div class="row">
 	                                <div class="col-md-6">
