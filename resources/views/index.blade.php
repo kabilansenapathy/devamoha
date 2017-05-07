@@ -97,7 +97,7 @@
 										<i class="fa fa-handshake-o"></i>
 									</div>
 									<h4 class="info-title">Empower</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>Schools & Institutions feel empowered if they have our highly competent teachers on board in areas where they had a deficit.</p>
 								</div>
 		                    </div>
 		                    <div class="col-md-4">
@@ -106,7 +106,7 @@
 										<i class="material-icons">assignment</i>
 									</div>
 									<h4 class="info-title">Educate</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>Students gain much more knowledge and become intelligent when they have teachers to provide the required support for them all through.</p>
 								</div>
 		                    </div>
 		                    <div class="col-md-4">
@@ -115,7 +115,7 @@
 										<i class="fa fa-users"></i>
 									</div>
 									<h4 class="info-title">Support</h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>They are confident that they always have somebody to help them work through academic challenges during and also after school.</p>
 								</div>
 		                    </div>
 		                </div>

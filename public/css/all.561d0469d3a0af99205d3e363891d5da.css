@@ -3773,6 +3773,7 @@ h2.title {
 .header-text{
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     font-size: 19px;
+    letter-spacing: 4px;
 }
 .bg-blue{
     background-color: #177abe;
