@@ -93,7 +93,7 @@
 							<a class="custom" href="/about"><h4><b>Learn More About Amoha</h4></b></a>
 	                    </div>
 	                </div>
-
+<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
 					<div class="features container">
 						<div class="container">
 		                    <div class="col-md-4">

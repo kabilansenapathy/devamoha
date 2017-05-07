@@ -5,7 +5,7 @@
 
 @section('content')
 <body class="profile-page">
-	<nav class="navbar navbar-transparent navbar-absolute">
+	<nav id="navbar" class="navbar navbar-transparent navbar-absolute">
     	<div class="container">
         	<!-- Brand and toggle get grouped for better mobile display -->
         	<div class="navbar-header">
@@ -79,13 +79,56 @@
 	        	<div class="section text-center">
                     <img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                <h2 class="title">Details</h2>
+					<div class="col-lg-3">
+						<button class="btn btn-custom btn-newsl btn-raised">
+											₹ 100
+						</button>
+						<button class="btn btn-custom btn-newsl btn-raised">
+											₹ 500
+						</button>
+						<button class="btn btn-custom btn-newsl btn-raised">
+											₹ 1000
+						</button>
+					</div>
+					<div class="col-lg-3">
+						<div style="padding-top:7px;">
+							<input type="text" class="custom-input" placeholder="₹ 500">
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="col-lg-6">
+							<input type="text" class="custom-input donate-input" placeholder="First Name">
+						</div>
+						<div class="col-lg-6">
+							<input type="text" class="custom-input donate-input" placeholder="Last Name">
+						</div>
+						<div class="col-lg-12" style="padding-top:10px;">
+							<input type="text" class="custom-input donate-input" placeholder="Address Line 1">
+						</div>
+						<div class="col-lg-12"style="padding-top:10px;">
+							<input type="text" class="custom-input donate-input" placeholder="Address Line 1">
+						</div>
+						<div class="col-lg-6"style="padding-top:10px;">
+							<input type="text" class="custom-input donate-input" placeholder="City">
+						</div>
+						<div class="col-lg-6"style="padding-top:10px;">
+							<input type="text" class="custom-input donate-input" placeholder="State">
+						</div>
+						<div class="col-lg-12"style="padding-top:10px;">
+							<input type="text" class="custom-input donate-input" placeholder="Email Id">
+						</div>
+						<div class="col-lg-12 text-center">
+							<button class="btn btn-custom btn-newsl btn-raised">
+											Donate Now
+						</button>
+						</div>
+					</div>
 
-					
 
 	            </div>
                 </div>
 
-
+<!--
 	        	<div class="section landing-section">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
@@ -130,7 +173,7 @@
 	                    </div>
 	                </div>
 
-	            </div>
+	            </div>-->
 	        </div>
 		</div>
 

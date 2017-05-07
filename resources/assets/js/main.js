@@ -15,3 +15,4 @@ jQuery(window).scroll(function() {
              jQuery("#navbar").removeClass("navbar-fixed-top");
         }
     });
+

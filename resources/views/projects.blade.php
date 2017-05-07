@@ -70,101 +70,77 @@
 		<div class="header header-filter about-background"></div>
 
 		<div class="main main-raised">
-			<div class="container">
+			<div class="container section">
 		    	<div class="section text-center">
-		<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	    <h2 class="title">Our Work</h2>
-	</div>
-<section id="cd-timeline" class="cd-container">
-	
-	<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Title of section 1</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-				<a rel="nofollow" rel="noreferrer"href="#0" class="cd-read-more">Read more</a>
-				<span class="cd-date">Jan 14</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Title of section 2</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
-				<a rel="nofollow" rel="noreferrer"href="#0" class="cd-read-more">Read more</a>
-				<span class="cd-date">Jan 18</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Picture">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Title of section 3</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
-				<a rel="nofollow" rel="noreferrer"href="#0" class="cd-read-more">Read more</a>
-				<span class="cd-date">Jan 24</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Location">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Title of section 4</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-				<a rel="nofollow" rel="noreferrer"href="#0" class="cd-read-more">Read more</a>
-				<span class="cd-date">Feb 14</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Location">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Title of section 5</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
-				<a rel="nofollow" rel="noreferrer"href="#0" class="cd-read-more">Read more</a>
-				<span class="cd-date">Feb 18</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-
-		<div class="cd-timeline-block">
-			<div class="cd-timeline-img  ">
-				<img src="img/logo.png" alt="Movie">
-			</div> <!-- cd-timeline-img -->
-
-			<div class="cd-timeline-content">
-				<h2>Final Section</h2>
-				<p>This is the content of the last section</p>
-				<span class="cd-date">Feb 26</span>
-			</div> <!-- cd-timeline-content -->
-		</div> <!-- cd-timeline-block -->
-	</section> <!-- cd-timeline -->
+					<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
+	    			<h2 class="title">Our Work</h2>
+					<div class="col-lg-4">
+						<button onclick="fact_change('valparai')" class="btn btn-custom btn-lg">Valparai</button>
+					</div>
+					<div class="col-lg-4">
+						<button onclick="fact_change('sholayar')" class="btn btn-custom btn-lg">Sholayar Dam</button>
+					</div>
+					<div class="col-lg-4">
+						<button onclick="fact_change('pannimadai')" class="btn btn-custom btn-lg">Pannimadai</button>
+					</div>
+				</div>
 				
-
-      
-
-
-
-	        </div>
+			</div>
+			<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
+			<div class="section facts-section container-fluid">
+				<h2 id="fact_title" class="title text-center">Combined Facts</h2>
+				<div class="col-lg-5 pull-right">
+				<div class="col-lg-6 text-center">
+					<img src="img/children.png">
+					<p class="project-fact-h">Children Served</p>
+					<p id="ch_no">250</p>
+				</div>
+				<div class="col-lg-6 text-center">
+					<img src="img/school.png">
+					<p class="project-fact-h">Schools</p>
+					<p id="sc_no">250</p>
+				</div>
+				<div class="col-lg-6 text-center">
+					<img src="img/teacher.png">
+					<p class="project-fact-h">Teachers Appointed</p>
+					<p id="te_no">250</p>
+				</div>
+				<div class="col-lg-6 text-center">
+					<img src="img/classroom.png">
+					<p class="project-fact-h">Classrooms</p>
+					<p id="cl_no">250</p>
+				</div>
+				</div>
+			</div>
 		</div>
 
     </div>
+<script>
 
+	function fact_change(location){
+		if(location == "valparai"){
+			document.getElementById("fact_title").innerHTML = "Valparai";
+			document.getElementById("ch_no").innerHTML = 200;
+			document.getElementById("sc_no").innerHTML = 2;
+			document.getElementById("te_no").innerHTML = 10;
+			document.getElementById("cl_no").innerHTML = 5;
+		}
+		else if(location == "sholayar"){
+			document.getElementById("fact_title").innerHTML = "Sholayar";
+			document.getElementById("ch_no").innerHTML = 50;
+			document.getElementById("sc_no").innerHTML = 20;
+			document.getElementById("te_no").innerHTML = 10;
+			document.getElementById("cl_no").innerHTML = 6;
+		}
+		if(location == "pannimadai"){
+			document.getElementById("fact_title").innerHTML = "Pannimadai";
+			document.getElementById("ch_no").innerHTML = 56;
+			document.getElementById("sc_no").innerHTML = 3;
+			document.getElementById("te_no").innerHTML = 10;
+			document.getElementById("cl_no").innerHTML = 4;
+		}
+	}
+</script>
 
 </body>
 @endsection

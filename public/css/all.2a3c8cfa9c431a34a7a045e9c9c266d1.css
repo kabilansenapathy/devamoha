@@ -4292,7 +4292,17 @@ a.custom{
     display:block;
     position:relative
 }
-
+.facts-section{
+    background: rgba(0, 0, 0, 0.12);
+}
+.project-icon{
+    color: #01a8a1;
+    height:50px;
+    width: 50px;
+}
+.donate-input{
+    width: 100%;
+}
 
 .cd-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
