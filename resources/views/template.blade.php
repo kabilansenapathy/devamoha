@@ -25,6 +25,26 @@
 </head>
     @yield('content')
 	    <footer class="footer">
+
+			<div class="footer-main">
+				<div class="container">
+					<div class="col-lg-6">
+						<h3>Contact</h3>
+						<h4>Addrses</h4>
+						<p>Addrses line1<br/>
+						Addrses line 2<br/>
+						Coimbatore - 641018</p>
+					</div>
+					<div class="col-lg-6">
+						<h3>Newsletter</h3>
+						<input type="text" class="custom-input" placeholder="Your Email">
+						<button class="btn btn-custom btn-newsl btn-raised">
+											Submit
+										</button>
+					</div>
+				</div>
+			</div>
+
 	        <div class="container">
 	            <nav class="pull-left">
 	                <ul>

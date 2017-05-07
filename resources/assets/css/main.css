@@ -139,6 +139,26 @@ a.custom{
 }
 .btn-custom{
     background-color: #177abe;
+    padding: 8px 20px;
+    border-radius: 0px;
+}
+
+.btn-contri{
+    margin-top: 18px;
+}
+.custom-input{
+    /*width: 100%;*/
+    transition: all 0.2s;
+    background-color: #f4f4f4;
+    border: 1px solid #dddddd;
+    border-radius: 0;
+    color: #465560;
+    display: inline-block;
+    line-height: 1.5;
+    padding: .5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-image: url('../img/shadow.png'); 
 }
 .icon-custom{
     color: #01a8a1;

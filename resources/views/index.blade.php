@@ -155,12 +155,12 @@
 				<div class="parallax">
 					<div class="parallax-content col-lg-8 col-xs-12 pull-right">
 						<!--<h3 class="title" style="color:#fff;"> Some Heading</h3>-->
-						<p class="parallax-p">Government school in Sholayar dam in Valparai did not have the required staff to teach their students Math & Science. Now that has been taken care of and the students have successfully taken up their exams.
+						<p class="parallax-p">A government school in Sholayar dam in Valparai did not have the required assistance  to teach their students Math & Science. Now that has been taken care of and the students have successfully taken up their exams.
 						</p>
-						<a class="custom" href="/about">Read more</a>
+						<a class="btn btn-custom" href="/about">Read more about our work</a>
 					</div>
 				</div>
-				<div class="container section text-center section-landing">
+				<!--<div class="container section text-center section-landing">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
@@ -168,30 +168,40 @@
 	                        <h5 class="description">Amoha is strongly committed to ensuring all students graduate from middle & high school and be college ready and fully prepared academically for any and all opportunities they choose to pursue.</h5>
 	                    </div>
 	                </div>
-	            </div>
+	            </div>-->
 
 	        	<div class="section landing-section">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
 							<div class="text-center">
 								<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                        	<h2 class="title">Contribute</h2>
-								<h4 class="description">Convince me more with a sentence</h4>
+	                        	<h2 class="title">Contribute now to support more schools</h2>
+								<h4 class="description">Your donation will help develop educated and responsible citizens.</h4>
 							</div>
+							<div class="text-center">
 	                        <form class="contact-form">
-	                            <div class="">
-	                                <div class="col-md-6">
-										<div class="form-group label-floating">
-											<label class="control-label">Your Name</label>
-											<input type="text" class="form-control">
-										</div>
+	                            
+	                                <div class="col-md-4 col-md-offset-3">
+										
+											<!--<span class="input-group-addon">
+												<i class="fa fa-inr"></i>
+											</span>-->
+											<div class="form-group is-empty">
+												<input type="text" class="custom-input" placeholder="₹ 500">
+											</div>
+										
 	                                </div>
-	                                <div class="col-md-6">
+									<div class="col-md-4 btn-contri text-left">
+	                                    <button class="btn btn-custom btn-raised">
+											Submit
+										</button>
+	                                </div>
+	                                <!--<div class="col-md-6">
 										<div class="form-group label-floating">
 											<label class="control-label">Your Email</label>
 											<input type="email" class="form-control">
 										</div>
-	                                </div>
+	                                </div>-->
 									<!--<div class="col-md-4">
 										<div class="input-group">
 											<span class="input-group-addon">
@@ -202,18 +212,13 @@
 											</div>
 										</div>
 									</div>-->
-	                            </div>
+	                        
 
 								
 
-	                            <div class="">
-	                                <div class="col-md-4 col-md-offset-4 text-center">
-	                                    <button class="btn btn-custom btn-raised">
-											Submit
-										</button>
-	                                </div>
-	                            </div>
+	                            
 	                        </form>
+							</div>
 	                    </div>
 	                </div>
 

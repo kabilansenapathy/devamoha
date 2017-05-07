@@ -79,9 +79,9 @@
 						<div class="row">
 							<div class="col-md-4">
 			                    <div class="team-player">
-			                        <img src="/img/profile/madhu.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Madhu Damodaran<br />
-										<small class="text-muted">Director</small>
+			                        <img src="/img/profile/anand.jpg" alt="Thumbnail Image" class="img-raised img-square">
+			                        <h4 class="title">Anand S.K<br />
+										<small class="text-muted">Chairman</small>
 									</h4>
 			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
@@ -91,20 +91,46 @@
 			                </div>
 			                <div class="col-md-4">
 			                    <div class="team-player">
-			                        <img src="/img/profile/adhi.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Adhithya Muthusamy<br />
-										<small class="text-muted">Director</small>
+			                        <img src="/img/profile/ganesh.jpg" alt="Thumbnail Image" class="img-raised img-square">
+			                        <h4 class="title">Ganesh Jagadheeshan<br />
+										<small class="text-muted">Vice Chairman</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
 			                    </div>
 			                </div>
 			                <div class="col-md-4">
 			                    <div class="team-player">
-			                        <img src="/img/profile/njain.jpg" alt="Thumbnail Image" class="img-raised img-circle">
+			                        <img src="/img/profile/ram.jpg" alt="Thumbnail Image" class="img-raised img-square">
+			                        <h4 class="title">Ramprakash Jagadheeshan<br />
+										<small class="text-muted">Secretary</small>
+									</h4>
+			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
+			                    </div>
+			                </div>
+						</div>
+							<div class="col-md-4">
+			                    <div class="team-player">
+			                        <img src="/img/profile/madhu.jpg" alt="Thumbnail Image" class="img-raised img-square">
+			                        <h4 class="title">Madhu Damodaran<br />
+										<small class="text-muted">Treasurer</small>
+									</h4>
+			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
+			                    </div>
+			                </div>
+			                
+			                <div class="col-md-4">
+			                    <div class="team-player">
+			                        <img src="/img/profile/njain.jpg" alt="Thumbnail Image" class="img-raised img-square">
 			                        <h4 class="title">Nirmal Jain<br />
-										<small class="text-muted">Director</small>
+										<small class="text-muted">Trustee</small>
 									</h4>
 			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
@@ -114,40 +140,16 @@
 			                </div>
 							<div class="col-md-4">
 			                    <div class="team-player">
-			                        <img src="/img/profile/adhi.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Person 2 <br />
-										<small class="text-muted">Director</small>
+			                        <img src="/img/profile/adhi.jpg" alt="Thumbnail Image" class="img-raised img-square">
+			                        <h4 class="title">Adhithya<br />
+										<small class="text-muted">Trustee</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
-			                    </div>
-			                </div>
-			                <div class="col-md-4">
-			                    <div class="team-player">
-			                        <img src="/img/profile/madhu.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Person 3<br />
-										<small class="text-muted">Director</small>
-									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
 			                    </div>
 			                </div>
-			                <div class="col-md-4">
-			                    <div class="team-player">
-			                        <img src="/img/profile/adhi.jpg" alt="Thumbnail Image" class="img-raised img-circle">
-			                        <h4 class="title">Person 4<br />
-										<small class="text-muted">Director</small>
-									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
-			                    </div>
-			                </div>
-						</div>
+							
 					</div>
 
 	            </div>
