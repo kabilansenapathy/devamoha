@@ -9,7 +9,7 @@
     	<div class="container">
         	<!-- Brand and toggle get grouped for better mobile display -->
         	<div class="navbar-header">
-        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
             		<span class="sr-only">Toggle navigation</span>
 		            <span class="icon-bar"></span>
 		            <span class="icon-bar"></span>
@@ -19,7 +19,7 @@
 				<a class="navbar-brand" href="/index.php">Amoha</a>
         	</div>
 
-        	<div class="collapse navbar-collapse no-pad" id="navigation-example">
+        	<div class="collapse navbar-collapse no-pad" id="navigation">
         		<ul class="nav navbar-nav navbar-right">
     				<li>
     					<a href="about">
@@ -41,17 +41,17 @@
     						Contribute
     					</a>
     				</li>
-		            <li>
+		            <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
 		            </li>
-		            <li>
+		            <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-facebook-square"></i>
 						</a>
 		            </li>
-					<li>
+					<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>
@@ -64,7 +64,7 @@
     <div class="wrapper">
         <div class="header header-filter" style="background-image: url('img/05-full.jpg');">
             <div class="container">
-                <div class="row">
+                <div class="container">
 					<div class="col-md-6">
 						<h1 class="title">Amoha</h1>
 	                    <h4>Small tagline/ description preferably a 2-3 liner</h4>
@@ -80,7 +80,7 @@
 		<div class="main">
 			<div class="">
 		    	<div class="container section text-center section-landing">
-	                <div class="row">
+	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">WHO & WHY</h2>
@@ -88,8 +88,8 @@
 	                    </div>
 	                </div>
 
-					<div class="features">
-						<div class="row">
+					<div class="features container">
+						<div class="container">
 		                    <div class="col-md-4">
 								<div class="info">
 									<div class="icon icon-primary">
@@ -131,7 +131,7 @@
 					</div>
 				</div>
 				<div class="container section text-center section-landing">
-	                <div class="row">
+	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">Our Mission</h2>
@@ -149,7 +149,7 @@
 								<h4 class="description">Convince me more with a sentence</h4>
 							</div>
 	                        <form class="contact-form">
-	                            <div class="row">
+	                            <div class="container">
 	                                <div class="col-md-6">
 										<div class="form-group label-floating">
 											<label class="control-label">Your Name</label>
@@ -176,7 +176,7 @@
 
 								
 
-	                            <div class="row">
+	                            <div class="container">
 	                                <div class="col-md-4 col-md-offset-4 text-center">
 	                                    <button class="btn btn-custom btn-raised">
 											Submit
@@ -198,7 +198,7 @@
 </body>
 
 	<!--   Core JS Files   -->
-	<script src="js/all.js" type="text/javascript"></script>
+	
 
 <script>
 	//jQuery("#navbar").removeClass("navbar-absolute");
