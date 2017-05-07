@@ -75,32 +75,31 @@
 	                <div class="row">
 	                    <div class="col-md-12 col-md-offset-0">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                        <h2 class="title">About Us</h2>
-	                        <h5 class="about-us-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h5>
+	                        <h2 class="title">Why We Exist</h2>
+	                        <h5 class="about-us-content">At Amoha, we believe education has the power to help every child and student reach his or her potential.With the right guidance we can put students on the right path to graduation, skill development and becoming responsible citizens in the process.</h5>
 	                    </div>
 	                </div>
 
 					
 	            </div>
 
-				<div class="container-fluid section text-center section-landing">
-					<div class="parallax-content col-lg-6 col-xs-12">
-						<h3 class="text-center"> Mission </h3>
+				<div class="container-fluid mission section text-left section-landing">
+					<div class="mission-content col-lg-12 col-xs-12">
+						
                         <div class="mission-text">
-						    <p>Description of something -  a 2 liner or more Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-							    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-						    </p>
+						<h3 class="text-center"> Mission </h3>
+						    <p>Amoha is strongly committed to help students by inculcating the right knowledge and skills in them, besides making them aware of their responsibilities and privileges as citizens of the country.						    </p>
                         </div>
 						
 					</div>
-                    <div class="parallax-content col-lg-6 col-xs-12">
+                    <!--<div class="parallax-content col-lg-6 col-xs-12">
 						<h3 class="text-center">Vission</h3>
 						 <div class="mission-text">
 						    <p>Description of something -  a 2 liner or more Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 							    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 						    </p>
                         </div>
-					</div>
+					</div>-->
 				</div>
 				
 				<div class="container section text-center section-landing">
@@ -116,15 +115,17 @@
 					<div class="row">
 						<div class="col-lg-4">
 							<h4 class="title">Belief</h4>
-							<p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+							<p class="description">At Amoha, we believe education has the power to help every child and student reach his or her potential. 
+</p>
 						</div>
 						<div class="col-lg-4">
 							<h4 class="title">Problem</h4>
-							<p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+							<p class="description">However, in high-poverty and under privileged communities there are external factors and obstacles students are faced with every day that can interfere with their ability to both get to school and be ready and able to learn. It's these students who need a bit of extra, individualized support. But there’s a gap between the kind of help they need and the support the schools are designed to provide. The result of this gap is a shockingly high dropout rate and unskilled resources in these communities. As a result it not only affects him or her, it also has a lasting effect on our communities and society as a whole.
+</p>
 						</div>
 						<div class="col-lg-4">
 							<h4 class="title">Solution</h4>
-							<p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+							<p class="description">Within these communities, dropouts and unavailability of resources are often highly concentrated. We are hence able to identify and target the specific schools that are in need of extra support. From there, we can start working to put students on the right path to graduation and becoming responsible citizens—which is where Amoha comes in.</p>
 						</div>
 					</div>
 	            </div>

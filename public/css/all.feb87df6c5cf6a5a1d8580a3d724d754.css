@@ -4252,6 +4252,7 @@ a.custom{
     background-attachment: fixed;
     height: 400px;
   }
+ 
   .parallax-content{
       padding: 5% 5%;
       background: rgba(0,0,0,0.7);
@@ -4270,8 +4271,16 @@ a.custom{
     text-align: left;
     color: #999999;
   }
+  .mission-content{
+
+      color: #fff !important;
+      height: 100%;
+  }
   .mission-text{
       padding: 5% 20% 5% 20%;
+  }
+   .mission{
+      background: rgba(0,0,0,0.7);
   }
 /*contact page*/
 .map{
