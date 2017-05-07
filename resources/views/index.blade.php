@@ -154,11 +154,10 @@
 					</div>-->
 				<div class="parallax">
 					<div class="parallax-content col-lg-8 col-xs-12 pull-right">
-						<h3 class="title" style="color:#fff;"> Some Heading</h3>
-						<p class="parallax-p">Description of something -  a 2 liner or more Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+						<!--<h3 class="title" style="color:#fff;"> Some Heading</h3>-->
+						<p class="parallax-p">Government school in Sholayar dam in Valparai did not have the required staff to teach their students Math & Science. Now that has been taken care of and the students have successfully taken up their exams.
 						</p>
-						<a class="custom" href="/about">Learn more</a>
+						<a class="custom" href="/about">Read more</a>
 					</div>
 				</div>
 				<div class="container section text-center section-landing">
