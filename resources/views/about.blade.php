@@ -41,17 +41,17 @@
     						Contribute
     					</a>
     				</li>
-		            <li>
+		           <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
 		            </li>
-		            <li>
+		            <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-facebook-square"></i>
 						</a>
 		            </li>
-					<li>
+					<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>

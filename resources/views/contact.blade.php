@@ -9,7 +9,7 @@
     	<div class="container">
         	<!-- Brand and toggle get grouped for better mobile display -->
         	<div class="navbar-header">
-        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
             		<span class="sr-only">Toggle navigation</span>
 		            <span class="icon-bar"></span>
 		            <span class="icon-bar"></span>
@@ -19,7 +19,7 @@
 				<a class="navbar-brand" href="/index.php">Amoha</a>
         	</div>
 
-        	<div class="collapse navbar-collapse no-pad" id="navigation-example">
+        	<div class="collapse navbar-collapse no-pad" id="navigation">
         		<ul class="nav navbar-nav navbar-right">
     				<li>
     					<a href="about">
@@ -41,17 +41,17 @@
     						Contribute
     					</a>
     				</li>
-		            <li>
+		           <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
 		            </li>
-		            <li>
+		            <li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-facebook-square"></i>
 						</a>
 		            </li>
-					<li>
+					<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>
