@@ -497,6 +497,9 @@ a.custom{
       color: #fff !important;
       height: 100%;
   }
+  .team-container{
+      padding-bottom: 140px;
+  }
   
   /*about page*/
   .about-background{
@@ -550,4 +553,7 @@ a.custom{
 }
 .verisign-text{
     margin-top: 19px;
+}
+.footer-main{
+    padding: 0% 25%;
 }

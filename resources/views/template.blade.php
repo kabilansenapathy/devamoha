@@ -28,17 +28,21 @@
 
 			<div class="footer-main">
 				<div class="container">
-					<div class="col-lg-6">
-						<h3>Contact</h3>
-						<h4>Addrses</h4>
+					<div class="col-lg-4">
+						<h3>Address</h3>
+						
 						<p>1050 Damodar Centre 3rd floor<br/>
-						Avinashi Road<br/>
-						Coimbatore - 641018</br>
+						Avinashi Road Coimbatore - 641018<br/>
 						Tamilnadu India</br>	
-						Tel:  04224392131
+						
 						</br></p>
 					</div>
-					<div class="col-lg-6">
+					<div class="col-lg-4">
+						<h3>Contact</h3>
+						<p>Tel: 04224392131 <br>
+						Email: info@amohagt.org</p>
+					</div>
+					<div class="col-lg-4">
 						<h3>Stay Informed</h3>
 						<p>Join our mailing list to receive updates</p>
 						<input type="text" class="custom-input" placeholder="Your Email">
@@ -47,37 +51,9 @@
 										</button>
 					</div>
 				</div>
-			</div>
+			
 
-	        <div class="container">
-	            <nav class="pull-left">
-	                <ul>
-	                    <li>
-	                        <a href="/">
-	                            Amoha
-	                        </a>
-	                    </li>
-						<li>
-	                        <a href="/about">
-	                           About Us
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="#">
-	                           Blog
-	                        </a>
-	                    </li>
-	                    <li>
-	                        <a href="contact">
-	                            Contact
-	                        </a>
-	                    </li>
-	                </ul>
-	            </nav>
-	            <div class="copyright pull-right">
-	                &copy; 2017 Amoha
-	            </div>
-	        </div>
+	
 	    </footer>
 
 

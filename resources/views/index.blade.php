@@ -46,7 +46,7 @@
     						Contribute
     					</a>
     				</li>
-		            <li class="hidden-xs hidden-sm">
+		            <!--<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
@@ -60,7 +60,7 @@
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>
-		            </li>
+		            </li>-->
         		</ul>
         	</div>
     	</div>

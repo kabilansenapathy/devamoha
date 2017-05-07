@@ -46,7 +46,7 @@
     						Contribute
     					</a>
     				</li>
-		           <li class="hidden-xs hidden-sm">
+		           <!--<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
@@ -60,7 +60,7 @@
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>
-		            </li>
+		            </li>-->
         		</ul>
         	</div>
     	</div>
@@ -124,7 +124,7 @@
 
         <script>
       function initMap() {
-        var uluru = {lat: 11.01 , lng: 76.97};
+        var uluru = {lat: 11.006096, lng: 76.975165};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 15,
           center: uluru

@@ -46,7 +46,7 @@
     						Contribute
     					</a>
     				</li>
-		           <li class="hidden-xs hidden-sm">
+		           <!--<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
 						</a>
@@ -60,7 +60,7 @@
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-instagram"></i>
 						</a>
-		            </li>
+		            </li>-->
         		</ul>
         	</div>
     	</div>
@@ -75,7 +75,7 @@
 
 				
 
-                <div class="container">
+                <div class="container team-container">
 	        	<div class="section text-center">
                     <img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                <h2 class="title">Team</h2>
@@ -88,10 +88,10 @@
 			                        <h4 class="title">Anand S.K<br />
 										<small class="text-muted">Chairman</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>-->
 			                    </div>
 			                </div>
 			                <div class="col-md-4">
@@ -100,9 +100,9 @@
 			                        <h4 class="title">Ganesh Jagadheeshan<br />
 										<small class="text-muted">Vice Chairman</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>-->
 			                    </div>
 			                </div>
 			                <div class="col-md-4">
@@ -111,10 +111,10 @@
 			                        <h4 class="title">Ramprakash Jagadheeshan<br />
 										<small class="text-muted">Secretary</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>-->
 			                    </div>
 			                </div>
 						</div>
@@ -124,10 +124,10 @@
 			                        <h4 class="title">Madhu Damodaran<br />
 										<small class="text-muted">Treasurer</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>-->
 			                    </div>
 			                </div>
 			                
@@ -137,10 +137,10 @@
 			                        <h4 class="title">Nirmal Jain<br />
 										<small class="text-muted">Trustee</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>-->
 			                    </div>
 			                </div>
 							<div class="col-md-4">
@@ -149,9 +149,9 @@
 			                        <h4 class="title">Adhithya<br />
 										<small class="text-muted">Trustee</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do.</p>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
-									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
+			                        <!--<p class="description">You can give more details about what they do.</p>-->
+									<!--<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
+									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>-->
 			                    </div>
 			                </div>
 							
@@ -161,51 +161,7 @@
                 </div>
 
 
-	        	<div class="section landing-section">
-	                <div class="container">
-	                    <div class="col-md-8 col-md-offset-2">
-                            <div class="text-center">
-                                <img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                            <h2 class="text-center title">Send Us a Message</h2>
-							    <h4 class="text-center description">Convince me more with a sentence</h4>
-                            </div>
-	                        <form class="contact-form">
-	                            <div class="row">
-	                                <div class="col-md-6">
-										<div class="form-group label-floating">
-											<label class="control-label">Your Name</label>
-											<input type="text" class="form-control">
-										</div>
-	                                </div>
-	                                <div class="col-md-6">
-										<div class="form-group label-floating">
-											<label class="control-label">Your Email</label>
-											<input type="email" class="form-control">
-										</div>
-	                                </div>
-									<div class="col-md-12">
-										
-											<div class="form-group is-empty">
-												<textarea type="text" class="form-control" placeholder="Message"></textarea>
-											</div>
-											
-									</div>
-	                            </div>
 
-								
-
-	                            <div class="row">
-	                                <div class="col-md-4 col-md-offset-4 text-center">
-	                                    <button class="btn btn-custom btn-raised">
-											Submit
-										</button>
-	                                </div>
-	                            </div>
-	                        </form>
-	                    </div>
-	                </div>
-
-	            </div>
 	        </div>
 		</div>
 
