@@ -34,6 +34,7 @@
  
 body {
   background-color: #CCCCCC;
+  overflow-x: hidden;
 }
 body.inverse {
   background: #333333;
@@ -4268,7 +4269,7 @@ a.custom{
       background-image: url('../img/about-header.jpg'); 
       /*background-position-y:-250rem;*/
       background-repeat: no-repeat;
-      /*background-size: contain;*/
+      background-size: contain;
   }
   .about-us-content{
     text-align: center;
@@ -4317,7 +4318,9 @@ a.custom{
     margin-top: 19px;
 }
 .footer-main{
-    padding: 0% 25%;
+    position: relative ;
+    left:5%;
+    overflow: hidden;
 }
 
 .cd-container {

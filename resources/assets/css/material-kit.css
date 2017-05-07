@@ -16,6 +16,7 @@
  
 body {
   background-color: #CCCCCC;
+  overflow-x: hidden;
 }
 body.inverse {
   background: #333333;

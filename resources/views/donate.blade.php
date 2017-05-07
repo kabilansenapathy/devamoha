@@ -36,16 +36,17 @@
     						Our Work
     					</a>
     				</li>
-    				<li>
-						<a href="contact">
-							Contact
-						</a>
-    				</li>
 					<li>
     					<a href="donate">
     						Contribute
     					</a>
     				</li>
+    				<li>
+						<a href="contact">
+							Contact
+						</a>
+    				</li>
+					
 		            <!--<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>

@@ -36,16 +36,17 @@
     						Our Work
     					</a>
     				</li>
-    				<li>
-						<a href="contact">
-							Contact
-						</a>
-    				</li>
 					<li>
     					<a href="donate">
     						Contribute
     					</a>
     				</li>
+    				<li>
+						<a href="contact">
+							Contact
+						</a>
+    				</li>
+					
 		            <!--<li class="hidden-xs hidden-sm">
 		                <a href="#" target="_blank" class="btn btn-simple btn-white btn-just-icon">
 							<i class="fa fa-twitter"></i>
@@ -74,7 +75,7 @@
 						<!--<h1 class="title">Amoha</h1>-->
 	                    <h4 class="header-text">Amoha is strongly committed to help students by inculcating the right knowledge and skills in them, besides making them aware of their responsibilities and privileges as citizens of the country.</h4>
 	                    <br />
-	                    <a href="#" class="btn btn-custom btn-raised btn-lg">
+	                    <a href="/about" class="btn btn-custom btn-raised btn-lg">
 							 Learn more
 						</a>
 					</div>
