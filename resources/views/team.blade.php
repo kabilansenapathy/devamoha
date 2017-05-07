@@ -88,7 +88,7 @@
 			                        <h4 class="title">Anand S.K<br />
 										<small class="text-muted">Chairman</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
@@ -100,7 +100,7 @@
 			                        <h4 class="title">Ganesh Jagadheeshan<br />
 										<small class="text-muted">Vice Chairman</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
 			                    </div>
@@ -111,7 +111,7 @@
 			                        <h4 class="title">Ramprakash Jagadheeshan<br />
 										<small class="text-muted">Secretary</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
@@ -124,7 +124,7 @@
 			                        <h4 class="title">Madhu Damodaran<br />
 										<small class="text-muted">Treasurer</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-instagram"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-facebook-square"></i></a>
@@ -137,7 +137,7 @@
 			                        <h4 class="title">Nirmal Jain<br />
 										<small class="text-muted">Trustee</small>
 									</h4>
-			                        <p class="description">You can write here details about one of your team members. You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-google-plus"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-youtube-play"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon btn-default"><i class="fa fa-twitter"></i></a>
@@ -149,7 +149,7 @@
 			                        <h4 class="title">Adhithya<br />
 										<small class="text-muted">Trustee</small>
 									</h4>
-			                        <p class="description">You can give more details about what they do. Feel free to add some <a href="#">links</a> for people to be able to follow them outside the site.</p>
+			                        <p class="description">You can give more details about what they do.</p>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-twitter"></i></a>
 									<a href="#pablo" class="btn btn-simple btn-just-icon"><i class="fa fa-linkedin"></i></a>
 			                    </div>

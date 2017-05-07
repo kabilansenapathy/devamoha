@@ -70,7 +70,7 @@
 
 	<div class="main main-raised">
 		<div class="contact-content">
-    		<div class="container">
+    		<div class="container section">
             	<h2 class="title">Send us a message</h2>
 				<div class="row">
 					<div class="col-md-6">
@@ -94,7 +94,7 @@
 								<textarea name="message" class="form-control" id="message" rows="6"></textarea>
 							</div>
 							<div class="submit text-center">
-								<input type="submit" class="btn btn-custom btn-raised btn-round" value="Send" />
+								<input type="submit" class="btn btn-custom btn-raised" value="Send" />
 							</div>
 						</form>
 					</div>
@@ -104,12 +104,13 @@
     							<i class="material-icons">pin_drop</i>
     						</div>
     						<div class="description">
-    							<h4 class="info-title">Find us at the office</h4>
-    							<p> 44, Address Line 1<br/>
-                                    Adress Line 2<br/>
-                                    Coimbatore 641018<br/>
-                                    Phone : +91-98765-04321
-    							</p>
+    							<h4 class="info-title">Addrses</h4>
+									<p>1050 Damodar Centre 3rd floor<br/>
+										Avinashi Road<br/>
+										Coimbatore - 641018</br>
+										Tamilnadu India</br>	
+										Tel:  04224392131</br>
+									</p>
     						</div>
     		        	</div>
                         
