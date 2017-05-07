@@ -89,7 +89,7 @@
 	                    </div>
 	                </div>
 
-					<!--<div class="features container">
+					<div class="features container">
 						<div class="container">
 		                    <div class="col-md-4">
 								<div class="info">
@@ -119,9 +119,9 @@
 								</div>
 		                    </div>
 		                </div>
-					</div>-->
+					</div>
 	            </div>
-<div class="section bg-blue text-center">
+<!--<div class="section bg-blue text-center">
 						<div class="container">
 		                    <div class="col-md-4">
 								<div class="info">
@@ -151,14 +151,14 @@
 								</div>
 		                    </div>
 		                </div>
-					</div>
+					</div>-->
 				<div class="parallax">
 					<div class="parallax-content col-lg-8 col-xs-12 pull-right">
 						<h3 class="title" style="color:#fff;"> Some Heading</h3>
 						<p class="parallax-p">Description of something -  a 2 liner or more Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 						</p>
-						<a class="custom" href="#">Learn more</a>
+						<a class="custom" href="/about">Learn more</a>
 					</div>
 				</div>
 				<div class="container section text-center section-landing">
