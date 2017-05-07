@@ -33,7 +33,7 @@
     				</li>
 					<li>
     					<a href="projects">
-    						Projects
+    						Our Work
     					</a>
     				</li>
     				<li>
@@ -73,7 +73,7 @@
 			<div class="container">
 		    	<div class="section text-center">
 		<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	    <h2 class="title">Our Projects</h2>
+	    <h2 class="title">Our Work</h2>
 	</div>
 <section id="cd-timeline" class="cd-container">
 	

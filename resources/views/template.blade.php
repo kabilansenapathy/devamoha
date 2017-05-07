@@ -31,12 +31,16 @@
 					<div class="col-lg-6">
 						<h3>Contact</h3>
 						<h4>Addrses</h4>
-						<p>Addrses line1<br/>
-						Addrses line 2<br/>
-						Coimbatore - 641018</p>
+						<p>1050 Damodar Centre 3rd floor<br/>
+						Avinashi Road<br/>
+						Coimbatore - 641018</br>
+						Tamilnadu India</br>	
+						Tel:  04224392131
+						</br></p>
 					</div>
 					<div class="col-lg-6">
-						<h3>Newsletter</h3>
+						<h3>Stay Informed</h3>
+						<p>Join our mailing list to receive updates</p>
 						<input type="text" class="custom-input" placeholder="Your Email">
 						<button class="btn btn-custom btn-newsl btn-raised">
 											Submit

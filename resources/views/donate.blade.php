@@ -33,7 +33,7 @@
     				</li>
 					<li>
     					<a href="projects">
-    						Projects
+    						Our Work
     					</a>
     				</li>
     				<li>
