@@ -27,5 +27,8 @@ Route::get('/donate', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/projects', function () {
+    return view('projects');
+});
 
 

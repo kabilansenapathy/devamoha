@@ -24,6 +24,7 @@ mix.js([
     'resources/assets/js/nouislider.min.js',
     'resources/assets/js/bootstrap-datepicker.js',
     'resources/assets/js/material-kit.js',
+    'resources/assets/js/timeline.js',
 
 
 ],'public/js/all.js').version();;
@@ -32,5 +33,6 @@ mix.styles([
      'resources/assets/css/app.css',
      'resources/assets/css/bootstrap.min.css',
      'resources/assets/css/material-kit.css',
-     'resources/assets/css/main.css'
+     'resources/assets/css/main.css',
+     'resources/assets/css/timeline.css'
  ], 'public/css/all.css').version();;
