@@ -66,8 +66,8 @@
             <div class="container">
                 <div class="container">
 					<div class="col-md-6">
-						<h1 class="title">Amoha</h1>
-	                    <h4>Small tagline/ description preferably a 2-3 liner</h4>
+						<!--<h1 class="title">Amoha</h1>-->
+	                    <h4>Amoha is strongly committed to help students by inculcating the right knowledge and skills in them, besides making them aware of their responsibilities and privileges as citizens of the country.</h4>
 	                    <br />
 	                    <a href="#" class="btn btn-custom btn-raised btn-lg">
 							 Learn more

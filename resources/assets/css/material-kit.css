@@ -3646,10 +3646,10 @@ h2.title {
 }
 
 .landing-page .header {
-  height: 100vh;
+  height: 75vh;
 }
 .landing-page .header .container {
-  padding-top: 26vh;
+  padding-top: 12vh;
   color: #FFFFFF;
 }
 .landing-page .header .share {
