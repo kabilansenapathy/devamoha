@@ -73,39 +73,45 @@
 			<div class="container section">
 		    	<div class="section text-center">
 					<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	    			<h2 class="title">Our Work</h2>
-					<div class="col-lg-4">
+	    			<h2 class="title">Work</h2>
+					<h4 class="description">Amoha is continuing to make a measurable impact in the lives of the students and communities we’re serving. Learn more about our impact.</h4>
+					<br/>
+					<br/>
+					<div class="col-lg-3">
 						<button onclick="fact_change('valparai')" class="btn btn-custom btn-lg">Valparai</button>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-3">
 						<button onclick="fact_change('sholayar')" class="btn btn-custom btn-lg">Sholayar Dam</button>
 					</div>
-					<div class="col-lg-4">
+					<div class="col-lg-3">
 						<button onclick="fact_change('pannimadai')" class="btn btn-custom btn-lg">Pannimadai</button>
+					</div>
+					<div class="col-lg-3">
+						<button onclick="fact_change('all')" class="btn btn-custom btn-lg">All</button>
 					</div>
 				</div>
 				
 			</div>
-			<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
-			<div class="section facts-section container-fluid">
-				<h2 id="fact_title" class="title text-center">Combined Facts</h2>
-				<div class="col-lg-5 pull-right">
-				<div class="col-lg-6 text-center">
+			<!--<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>-->
+			<div class=" facts-section container-fluid">
+				<h2 id="fact_title" class="title text-center">All</h2>
+				<div class="col-lg-12">
+				<div class="col-lg-3 text-center">
 					<img src="img/children.png">
 					<p class="project-fact-h">Children Served</p>
 					<p id="ch_no">250</p>
 				</div>
-				<div class="col-lg-6 text-center">
+				<div class="col-lg-3 text-center">
 					<img src="img/school.png">
 					<p class="project-fact-h">Schools</p>
 					<p id="sc_no">250</p>
 				</div>
-				<div class="col-lg-6 text-center">
+				<div class="col-lg-3 text-center">
 					<img src="img/teacher.png">
 					<p class="project-fact-h">Teachers Appointed</p>
 					<p id="te_no">250</p>
 				</div>
-				<div class="col-lg-6 text-center">
+				<div class="col-lg-3 text-center">
 					<img src="img/classroom.png">
 					<p class="project-fact-h">Classrooms</p>
 					<p id="cl_no">250</p>
@@ -132,12 +138,20 @@
 			document.getElementById("te_no").innerHTML = 10;
 			document.getElementById("cl_no").innerHTML = 6;
 		}
-		if(location == "pannimadai"){
+		else if(location == "pannimadai"){
 			document.getElementById("fact_title").innerHTML = "Pannimadai";
 			document.getElementById("ch_no").innerHTML = 56;
 			document.getElementById("sc_no").innerHTML = 3;
 			document.getElementById("te_no").innerHTML = 10;
 			document.getElementById("cl_no").innerHTML = 4;
+		}
+			else if(location == "all"){
+			document.getElementById("fact_title").innerHTML = "All";
+			document.getElementById("ch_no").innerHTML = 306;
+			document.getElementById("sc_no").innerHTML = 25;
+			document.getElementById("te_no").innerHTML = 30;
+			document.getElementById("cl_no").innerHTML = 15;
+
 		}
 	}
 </script>

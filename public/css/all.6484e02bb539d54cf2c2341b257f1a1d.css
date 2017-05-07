@@ -4293,15 +4293,25 @@ a.custom{
     position:relative
 }
 .facts-section{
-    background: rgba(0, 0, 0, 0.12);
+    /*background: rgba(0, 0, 0, 0.12);*/
+    padding-bottom: 50px;
 }
 .project-icon{
     color: #01a8a1;
     height:50px;
     width: 50px;
 }
+.project-fact-h{
+    font-weight: bold;
+}
 .donate-input{
     width: 100%;
+}
+.donate-form-title{
+    padding-left: 15px;
+}
+.verisign-text{
+    margin-top: 19px;
 }
 
 .cd-container {

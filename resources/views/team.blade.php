@@ -78,7 +78,7 @@
                 <div class="container">
 	        	<div class="section text-center">
                     <img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                <h2 class="title">Our Team</h2>
+	                <h2 class="title">Team</h2>
 
 					<div class="team">
 						<div class="row">

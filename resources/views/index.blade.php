@@ -197,9 +197,9 @@
 										
 	                                </div>
 									<div class="col-md-4 btn-contri text-left">
-	                                    <button class="btn btn-custom btn-raised">
+	                                    <a href="/donate" class="btn btn-custom btn-raised">
 											Submit
-										</button>
+										</a>
 	                                </div>
 	                                <!--<div class="col-md-6">
 										<div class="form-group label-floating">
