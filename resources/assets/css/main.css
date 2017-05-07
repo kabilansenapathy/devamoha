@@ -520,6 +520,9 @@ a.custom{
    .mission{
       background: rgba(0,0,0,0.7);
   }
+  .row-divider--image{
+      background: url('../img/divider.png') 50% 100% no-repeat;
+  }
 /*contact page*/
 .map{
     height:55vh;

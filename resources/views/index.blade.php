@@ -87,8 +87,8 @@
 		    	<div class="container section text-center section-landing">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
-							<!--<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                        <h2 class="title">Why we exist</h2>-->
+							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
+	                        <h2 class="title">Mission</h2>
 	                        <h3 class="description">At Amoha, we believe education has the power to help every child and student reach his or her potential.With the right guidance we can put students on the right path to graduation, skill development and becoming responsible citizens in the process.</h3>
 							<a class="custom" href="/about"><h4><b>Learn More About Amoha</h4></b></a>
 	                    </div>

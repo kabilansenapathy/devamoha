@@ -80,6 +80,7 @@
 	                    </div>
 	                </div>
 		    	</div>
+				<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
 					<div class="container section text-center section-landing">
 	                    <div class="col-md-12 col-md-offset-0">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
@@ -87,6 +88,7 @@
 	                        <h3 class="about-us-content">At Amoha, we believe education has the power to help every child and student reach his or her potential</h3>
 	                    </div>
 	                </div>
+					<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
 					<div class="container section text-center section-landing">
 	                    <div class="col-md-12 col-md-offset-0">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
@@ -94,6 +96,7 @@
 	                        <h3 class="about-us-content">However, in high-poverty and under privileged communities there are external factors and obstacles students are faced with every day that can interfere with their ability to both get to school and be ready and able to learn. It's these students who need a bit of extra, individualized support. But there’s a gap between the kind of help they need and the support the schools are designed to provide. The result of this gap is a shockingly high dropout rate and unskilled resources in these communities. As a result it not only affects him or her, it also has a lasting effect on our communities and society as a whole. </h3>
 	                    </div>
 	                </div>
+					<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
 					<div class="container section text-center section-landing">
 	                    <div class="col-md-12 col-md-offset-0">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
@@ -123,20 +126,20 @@
                         </div>
 					</div>
 				</div>-->
-				
+				<!--<div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>			
 				<div class="container section text-center section-landing">
 	                <div class="row">
 	                    <div class="col-md-8 col-md-offset-2">
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">Our Approach</h2>
-	                        <h5 class="about-us-content">Amoha is strongly committed to ensuring all students graduate from middle & high school and be college ready and fully prepared academically for any and all opportunities they choose to pursue.</h5>
+	                        <h3 class="about-us-content">Amoha is strongly committed to ensuring all students graduate from middle & high school and be college ready and fully prepared academically for any and all opportunities they choose to pursue.</h3>
 	                    </div>
 	                </div>
-				</div>
+				</div>-->
 
 
 
-	        	<div class="section landing-section">
+	        	<!--<div class="section landing-section">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
 							<div class="text-center">
@@ -180,7 +183,7 @@
 	                    </div>
 	                </div>
 
-	            </div>
+	            </div>-->
 	        </div>
 		</div>
 
