@@ -3664,10 +3664,10 @@ h2.title {
 }
 
 .landing-page .header {
-  height: 75vh;
+  height: 85vh;
 }
 .landing-page .header .container {
-  padding-top: 12vh;
+  padding-top: 17vh;
   color: #FFFFFF;
 }
 .landing-page .header .share {
@@ -3760,8 +3760,31 @@ h2.title {
 
 /*# sourceMappingURL=material-kit.css.map */
 
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+
 .landing-page .navbar-transparent, .profile-page .navbar-transparent, .signup-page .navbar-transparent, .index-page .navbar-transparent{
     padding-top:10px;
+}
+.header{
+    background: url('../img/05-full.jpg') fixed no-repeat;
+    background-size: cover !important; 
+}
+.header-text{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 19px;
+}
+.bg-blue{
+    background-color: #177abe;
+}
+.bg-blue .info .info-title{
+    color: #fff !important;
+}
+.bg-blue .info p{
+    color: #fff !important;
+}
+.icon-white{
+    color:#fff !important;
 }
 @media(min-width:768px){
 .no-pad{

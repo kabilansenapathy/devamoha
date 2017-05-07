@@ -62,12 +62,12 @@
     </nav>
 
     <div class="wrapper">
-        <div class="header header-filter" style="background-image: url('img/05-full.jpg');">
+        <div class="header header-filter" style="">
             <div class="container">
                 <div class="container">
 					<div class="col-md-6">
 						<!--<h1 class="title">Amoha</h1>-->
-	                    <h4>Amoha is strongly committed to help students by inculcating the right knowledge and skills in them, besides making them aware of their responsibilities and privileges as citizens of the country.</h4>
+	                    <h4 class="header-text">Amoha is strongly committed to help students by inculcating the right knowledge and skills in them, besides making them aware of their responsibilities and privileges as citizens of the country.</h4>
 	                    <br />
 	                    <a href="#" class="btn btn-custom btn-raised btn-lg">
 							 Learn more
@@ -82,13 +82,14 @@
 		    	<div class="container section text-center section-landing">
 	                <div class="container">
 	                    <div class="col-md-8 col-md-offset-2">
-							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
-	                        <h2 class="title">WHO & WHY</h2>
-	                        <h5 class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h5>
+							<!--<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
+	                        <h2 class="title">Why we exist</h2>-->
+	                        <h3 class="description">At Amoha, we believe education has the power to help every child and student reach his or her potential.With the right guidance we can put students on the right path to graduation, skill development and becoming responsible citizens in the process.</h3>
+							<a class="custom" href="/about"><h4><b>Learn More About Amoha</h4></b></a>
 	                    </div>
 	                </div>
 
-					<div class="features container">
+					<!--<div class="features container">
 						<div class="container">
 		                    <div class="col-md-4">
 								<div class="info">
@@ -118,9 +119,39 @@
 								</div>
 		                    </div>
 		                </div>
-					</div>
+					</div>-->
 	            </div>
-
+<div class="section bg-blue text-center">
+						<div class="container">
+		                    <div class="col-md-4">
+								<div class="info">
+									<div class="icon icon-white">
+										<i class="fa fa-handshake-o"></i>
+									</div>
+									<h4 class="info-title">Empower</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+		                    </div>
+		                    <div class="col-md-4">
+								<div class="info">
+									<div class="icon icon-white">
+										<i class="material-icons">assignment</i>
+									</div>
+									<h4 class="info-title">Educate</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+		                    </div>
+		                    <div class="col-md-4">
+								<div class="info">
+									<div class="icon icon-white">
+										<i class="fa fa-users"></i>
+									</div>
+									<h4 class="info-title">Support</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+		                    </div>
+		                </div>
+					</div>
 				<div class="parallax">
 					<div class="parallax-content col-lg-8 col-xs-12 pull-right">
 						<h3 class="title" style="color:#fff;"> Some Heading</h3>
@@ -149,7 +180,7 @@
 								<h4 class="description">Convince me more with a sentence</h4>
 							</div>
 	                        <form class="contact-form">
-	                            <div class="container">
+	                            <div class="">
 	                                <div class="col-md-6">
 										<div class="form-group label-floating">
 											<label class="control-label">Your Name</label>
@@ -176,7 +207,7 @@
 
 								
 
-	                            <div class="container">
+	                            <div class="">
 	                                <div class="col-md-4 col-md-offset-4 text-center">
 	                                    <button class="btn btn-custom btn-raised">
 											Submit
