@@ -16,10 +16,10 @@ const { mix } = require('laravel-mix');
 
 
 mix.js([
+   // 'resources/assets/js/bootstrap.min.js',
     'resources/assets/js/app.js',
     'resources/assets/js/jquery.min.js',
-    'resources/assets/js/main.js',
-    'resources/assets/js/bootstrap.min.js',
+    'resources/assets/js/main.js',    
     'resources/assets/js/material.min.js',
     'resources/assets/js/nouislider.min.js',
     'resources/assets/js/bootstrap-datepicker.js',

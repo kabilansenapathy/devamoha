@@ -91,7 +91,7 @@
 							<img class="navbar-logo" src="{{{asset('img/logo.png')}}}">
 	                        <h2 class="title">Mission</h2>
 	                        <h3 class="description">At Amoha, we believe education has the power to help every child and student reach his or her potential.With the right guidance we can put students on the right path to graduation, skill development and becoming responsible citizens in the process.</h3>
-							<a class="custom" href="/about"><h4><b>Learn More About Amoha</h4></b></a>
+							<a class="custom" href="/about"><h4><b>Learn More About Amoha</b></h4></a>
 	                    </div>
 	                </div>
 <div class="rowDividerControl ciModule ms-rtestate-read ms-rte-wpbox"><section class="row-divider--image" style="height:19px;"></section></div>
@@ -236,27 +236,6 @@
 
 
 	</div>
-</body>
 
-	<!--   Core JS Files   -->
-	
 
-<script>
-	//jQuery("#navbar").removeClass("navbar-absolute");
-</script>
-	<!--<script type="text/javascript">
-
-		$().ready(function(){
-			// the body of this function is in assets/material-kit.js
-			materialKit.initSliders();
-            window_width = $(window).width();
-
-            if (window_width >= 992){
-                big_image = $('.wrapper > .header');
-
-				$(window).on('scroll', materialKitDemo.checkScrollForParallax);
-			}
-
-		});
-	</script>-->
 @endsection

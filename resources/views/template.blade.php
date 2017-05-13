@@ -20,6 +20,7 @@
         </script>
 
 	<!-- CSS Files -->
+	
     <link href="{{{ mix('css/all.css') }}}" rel="stylesheet" />
 
 </head>
@@ -33,9 +34,9 @@
 						
 						<p>1050 Damodar Centre 3rd floor<br/>
 						Avinashi Road Coimbatore - 641018<br/>
-						Tamilnadu India</br>	
+						Tamilnadu India<br>	
 						
-						</br></p>
+						<br></p>
 					</div>
 					<div class="col-lg-4">
 						<h3>Contact</h3>
@@ -52,13 +53,12 @@
 					</div>
 				</div>
 			
-
+</div>
 	
 	    </footer>
 
 
     <!--   Core JS Files   -->
 	<script src="{{{mix('js/all.js')}}}" type="text/javascript"></script>
-
 
 </html>

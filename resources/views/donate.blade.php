@@ -222,5 +222,5 @@
     </div>
 
 
-</body>
+
 @endsection

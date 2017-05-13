@@ -138,5 +138,5 @@
     </script>
 
 <script  type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCt-vkHly4wAQeOFYWJZfnzXFM7RKOQ56k&callback=initMap"></script>
-</body>
+
 @endsection
