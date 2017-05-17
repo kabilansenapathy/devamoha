@@ -87,7 +87,7 @@
 						<div class="row">
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/anand.jpg" alt="img01"/>
+								<img src="/img/profile/anand.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
@@ -99,7 +99,7 @@
 						</div>
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/ganesh.jpg" alt="img01"/>
+								<img src="/img/profile/ganesh.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
@@ -111,7 +111,7 @@
 						</div>
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/ram.jpg" alt="img01"/>
+								<img src="/img/profile/ram.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
@@ -125,7 +125,7 @@
 						<div class="row">
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/madhu.jpg" alt="img01"/>
+								<img src="/img/profile/madhu.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
@@ -137,7 +137,7 @@
 						</div>
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/njain.jpg" alt="img01"/>
+								<img src="/img/profile/njain.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
@@ -149,7 +149,7 @@
 						</div>
 						<div class="col-lg-4">
 							<figure class="effect-lily">
-								<img src="/img/profile/adhi.jpg" alt="img01"/>
+								<img src="/img/profile/adhi.jpg" class="img-raised" alt="img01"/>
 								<figcaption>
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 									<a href="#">View more</a>
