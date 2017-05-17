@@ -18,6 +18,7 @@
               'csrfToken' => csrf_token(),
           ]); ?>
         </script>
+		
 
 	<!-- CSS Files -->
 	
